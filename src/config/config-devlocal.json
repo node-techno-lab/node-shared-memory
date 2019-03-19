@@ -1,0 +1,14 @@
+{
+    "logging": {
+        "shortDescription": true,
+        "transports": [
+            {
+                "enabled": true,
+                "transport": "Console",
+                "minLevel": "trace"
+            }
+        ]
+    },
+    "listenPort": 3030,
+    "relativePublicPath": "/../public"
+}
